@@ -6,7 +6,7 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 1.2;
-  max-width: 990px;
+  max-width: 731px;
   color: #000;
   background: #fff;
 }
@@ -265,7 +265,7 @@
   justify-content: space-between;
 }
 #es-rc #es-rc-content .es-cross__product {
-  width: 162px;
+  width: 140px;
   margin: 0 auto;
   margin-bottom: 32px;
   display: flex;
